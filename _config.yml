@@ -16,8 +16,8 @@ resume: true
 resume-external: false
 resume-url: assets/resume_december_2017.pdf
 
-url: https://koppl.in/indigo
-# your url: http://andareiro.github.io
+# url: https://koppl.in/indigo
+url: http://andareiro.github.io
 
 permalink: /:title/
 
