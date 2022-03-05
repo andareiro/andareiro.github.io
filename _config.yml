@@ -1,6 +1,6 @@
 # main text of home
 name: Bern Moorehead
-bio: Agtech strategy and biz dev, rocks and trails, Eastern NC barbecue
+bio: Agricultural and food risk management technology, business development, rocks and trails, Eastern NC barbecue
 
 # twitter summary info
 description: Bio projects and links
@@ -14,7 +14,7 @@ picture: assets/images/headshot.png
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/resume_bern_moorehead.pdf
+resume-url: assets/resume_january_2021.pdf
 
 # url: https://koppl.in/indigo
 url: http://andareiro.github.io
@@ -35,14 +35,14 @@ permalink: /:title/
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: bernmoorehead
+# twitter: bernmoorehead
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 linkedin: bernmoorehead
 # youtube: myyoutube
 # spotify: myspotify
-github: andareiro
+# github: andareiro
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -55,10 +55,10 @@ email: bern@escal.io
 authors:
     bernmoorehead:
         name: Bern Moorehead
-        bio: Agtech and Eastern NC barbecue
+        bio: Risk management tech and Eastern NC barbecue
         external-image: false
         picture: assets/images/headshot.png
-        twitter: bernmoorehead
+#        twitter: bernmoorehead
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
